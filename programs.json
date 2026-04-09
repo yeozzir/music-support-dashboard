@@ -92,21 +92,6 @@
       }
     },
     {
-      "id": "web-1f9cb16b",
-      "name": "2026 EBS 헬로루키",
-      "organization": "EBS 스페이스 공감",
-      "deadline": "2026년 6월",
-      "amount": "이달의 헬로루키 200만원 / 올해의 헬로루키 대상 2,000만원",
-      "target": "2024년 1월 이후 첫 앨범 또는 EP 발매 뮤지션 (장르 무관)",
-      "url": "https://grounz.net/announcement/view/5481",
-      "source": "web-search",
-      "urgent": false,
-      "summary": {
-        "조건": "2024년 1월 이후 첫 앨범/EP 발매 신인 뮤지션 (장르 무관)",
-        "내용": "월별 선발 200만원 / 연간 대상 2,000만원 + EBS 스페이스 공감 출연 기회"
-      }
-    },
-    {
       "id": "web-a016d947",
       "name": "2026 KT&G 상상마당 청춘비상",
       "organization": "KT&G 상상마당",
@@ -144,6 +129,141 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://www.sfac.or.kr/opensquare/notice/notice_list.do?bcIdx=137391",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": ": 2025",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-33ae5e12",
+      "name": "2026 문화예술창작지원사업 (수원)",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.swcf.or.kr/?p=95&viewMode=view&idx=110250",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "[장르별 창작사업 범위] - 신곡이 포함된 음악 공연, 새로운 연출 작품, 새로운 안무 등 - 신규 창작 결과물로 구성된 전시 등",
+        "내용": "[장르별 창작사업 범위] - 신곡이 포함된 음악 공연, 새로운 연출 작품, 새로운 안무 등 - 신규 창작 결과물로 구성된 전시 등"
+      }
+    },
+    {
+      "id": "web-017d94d6",
+      "name": "2026 청년예술가도약지원 (ARKO)",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.artnuri.or.kr/crawler/info/view.do?docid=CRL3289&seNo=001&key=2301170002",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-fe0a9da4",
+      "name": "한국콘텐츠진흥원, 신기술 융합음악 창작경쟁력 강화 ‘2026신기술 융합음악콘텐츠 개발지원’사업 공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "http://www.gyinews.kr/news/articleView.html?idxno=61009",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-c3636787",
+      "name": "2026 서울문화재단 K-Art 청년창작자지원",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.sfac.or.kr/opensquare/notice/notice_list.do?bcIdx=137820",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-2fccc449",
+      "name": "2026 대중음악 음반 제작 지원",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=126D00110003&menuNo=204104",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": "협약체결 후 확정된 지원금의 70% 지급"
+      }
+    },
+    {
+      "id": "web-ec3ce15b",
+      "name": "2026 대중음악 국내외 협업 프로젝트 지원",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=126D00110004&menuNo=204104",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": "협약체결 후 확정된 지원금의 70% 지급"
+      }
+    },
+    {
+      "id": "web-a8f6d9d8",
+      "name": "2026 대중음악 해외 공연 지원",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=126D00110005&menuNo=204104",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "세부내용 공고문 참조",
+        "내용": "해외 투어 공연 및 국제 페스티벌 참가 예정인 국내 뮤지션의 안내 홍보물 제작비, 임차료, 국외여비 등"
+      }
+    },
+    {
+      "id": "web-6e3b5591",
+      "name": "2026 튠업 뮤지션 공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.art-culture.co.kr/magazine_contest/1360",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-21fa8001",
+      "name": "2026 안양 문화예술공간 활성화 지원사업 공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5532",
       "source": "web-search",
       "urgent": false,
       "summary": {

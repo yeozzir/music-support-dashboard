@@ -198,28 +198,19 @@ def scrape_kawf():
         return []
 
 
-# ── 개별 공고 페이지에서 요약 추출 ───────────────
-def fetch_summary(url):
+# ── HTML에서 지원 조건/내용 추출 (공통 함수) ────────
+def _parse_summary_from_html(html):
     """
-    공고 페이지를 방문해서 '지원 조건'과 '지원 내용'을 구분해 추출합니다.
-
-    추출 방식 (우선순위 순):
-      1. 테이블(th→td), 정의목록(dt→dd): 키워드 라벨과 값 쌍 추출
-      2. 줄 단위 스캔: '키워드 : 값' 또는 키워드 뒤 바로 오는 내용 추출
-
-    반환: {"조건": "...", "내용": "..."} 딕셔너리
-           값을 찾지 못하면 해당 키는 빈 문자열
+    BeautifulSoup으로 파싱한 HTML에서 지원 조건과 지원 내용을 추출합니다.
+    fetch_summary와 fetch_summary_playwright 양쪽에서 공통으로 사용합니다.
     """
     import re
 
-    # ── 분류 기준 키워드 ──
-    # 지원 조건: 신청할 수 있는 자격/대상/기간
     CONDITION_KEYWORDS = [
         "지원대상", "지원 대상", "신청대상", "신청자격", "지원조건",
         "모집대상", "모집 대상", "참가자격", "신청기간", "접수기간",
         "모집기간", "신청 기간", "접수 기간",
     ]
-    # 지원 내용: 뭘 얼마나 지원해주는지
     CONTENT_KEYWORDS = [
         "지원내용", "지원 내용", "지원금액", "지원 금액", "지원규모",
         "지원사항", "혜택", "선정혜택", "지원혜택", "지원금",
@@ -227,118 +218,147 @@ def fetch_summary(url):
     ]
 
     def clean(text):
-        """연속 공백·줄바꿈 정리"""
         return re.sub(r"\s+", " ", text).strip()
 
     def is_junk(text):
-        """메뉴·네비게이션·코드성 텍스트인지 확인"""
         if len(text) < 5:
             return True
         junk_patterns = [
             r"로그인|회원가입|마이페이지|사이트맵|즐겨찾기",
             r"바로가기|레이어닫기|레이어 닫기",
-            r"^\s*[A-Za-z0-9_\-\.]+\s*$",  # 영문/숫자만 (코드, URL)
+            r"^\s*[A-Za-z0-9_\-\.]+\s*$",
         ]
         for pat in junk_patterns:
             if re.search(pat, text):
                 return True
         return False
 
+    soup = BeautifulSoup(html, "html.parser")
+    for tag in soup(["script", "style", "nav", "footer", "header", "noscript", "iframe"]):
+        tag.decompose()
+
     result = {"조건": "", "내용": ""}
 
-    try:
-        response = requests.get(url, headers=HEADERS, timeout=8)
-        response.encoding = "utf-8"
-        soup = BeautifulSoup(response.text, "html.parser")
-
-        for tag in soup(["script", "style", "nav", "footer",
-                          "header", "noscript", "iframe"]):
-            tag.decompose()
-
-        # ── 방법 1: 테이블 th→td 쌍 ──
-        for row in soup.find_all("tr"):
-            cells = row.find_all(["th", "td"])
-            if len(cells) < 2:
-                continue
-            label = clean(cells[0].get_text())
-            value = clean(cells[1].get_text())
-            if not value or is_junk(value):
-                continue
-
-            for kw in CONDITION_KEYWORDS:
-                if kw in label and not result["조건"]:
-                    result["조건"] = value[:150]
-                    break
-            for kw in CONTENT_KEYWORDS:
-                if kw in label and not result["내용"]:
-                    result["내용"] = value[:150]
-                    break
-
-            if result["조건"] and result["내용"]:
+    # 방법 1: 테이블 th→td 쌍
+    for row in soup.find_all("tr"):
+        cells = row.find_all(["th", "td"])
+        if len(cells) < 2:
+            continue
+        label = clean(cells[0].get_text())
+        value = clean(cells[1].get_text())
+        if not value or is_junk(value):
+            continue
+        for kw in CONDITION_KEYWORDS:
+            if kw in label and not result["조건"]:
+                result["조건"] = value[:150]
                 break
+        for kw in CONTENT_KEYWORDS:
+            if kw in label and not result["내용"]:
+                result["내용"] = value[:150]
+                break
+        if result["조건"] and result["내용"]:
+            break
 
-        # ── 방법 2: 정의목록 dt→dd 쌍 ──
-        if not result["조건"] or not result["내용"]:
-            for dl in soup.find_all("dl"):
-                dts = dl.find_all("dt")
-                dds = dl.find_all("dd")
-                for dt, dd in zip(dts, dds):
-                    label = clean(dt.get_text())
-                    value = clean(dd.get_text())
-                    if not value or is_junk(value):
-                        continue
+    # 방법 2: 정의목록 dt→dd 쌍
+    if not result["조건"] or not result["내용"]:
+        for dl in soup.find_all("dl"):
+            for dt, dd in zip(dl.find_all("dt"), dl.find_all("dd")):
+                label = clean(dt.get_text())
+                value = clean(dd.get_text())
+                if not value or is_junk(value):
+                    continue
+                for kw in CONDITION_KEYWORDS:
+                    if kw in label and not result["조건"]:
+                        result["조건"] = value[:150]
+                        break
+                for kw in CONTENT_KEYWORDS:
+                    if kw in label and not result["내용"]:
+                        result["내용"] = value[:150]
+                        break
+
+    # 방법 3: 줄 단위 스캔
+    if not result["조건"] or not result["내용"]:
+        lines = soup.get_text(separator="\n").splitlines()
+        for i, line in enumerate(lines):
+            line = clean(line)
+            if not line:
+                continue
+            kv_match = re.match(r"^(.{2,12})[：:·]\s*(.+)$", line)
+            if kv_match:
+                label, value = kv_match.group(1), clean(kv_match.group(2))
+                if not is_junk(value):
                     for kw in CONDITION_KEYWORDS:
                         if kw in label and not result["조건"]:
                             result["조건"] = value[:150]
-                            break
                     for kw in CONTENT_KEYWORDS:
                         if kw in label and not result["내용"]:
                             result["내용"] = value[:150]
-                            break
+                continue
+            for kw in CONDITION_KEYWORDS:
+                if line.strip() == kw and i + 1 < len(lines):
+                    nxt = clean(lines[i + 1])
+                    if nxt and not is_junk(nxt) and not result["조건"]:
+                        result["조건"] = nxt[:150]
+            for kw in CONTENT_KEYWORDS:
+                if line.strip() == kw and i + 1 < len(lines):
+                    nxt = clean(lines[i + 1])
+                    if nxt and not is_junk(nxt) and not result["내용"]:
+                        result["내용"] = nxt[:150]
+            if result["조건"] and result["내용"]:
+                break
 
-        # ── 방법 3: 줄 단위 스캔 — "키워드: 값" 또는 "키워드\n값" 패턴 ──
-        if not result["조건"] or not result["내용"]:
-            lines = soup.get_text(separator="\n").splitlines()
-            for i, line in enumerate(lines):
-                line = clean(line)
-                if not line:
-                    continue
+    return result
 
-                # "키워드 : 값" 형태
-                kv_match = re.match(r"^(.{2,12})[：:·]\s*(.+)$", line)
-                if kv_match:
-                    label, value = kv_match.group(1), kv_match.group(2)
-                    value = clean(value)
-                    if not is_junk(value):
-                        for kw in CONDITION_KEYWORDS:
-                            if kw in label and not result["조건"]:
-                                result["조건"] = value[:150]
-                        for kw in CONTENT_KEYWORDS:
-                            if kw in label and not result["내용"]:
-                                result["내용"] = value[:150]
-                    continue
 
-                # 키워드 단독 줄 → 다음 줄이 값
-                for kw in CONDITION_KEYWORDS:
-                    if line.strip() == kw and i + 1 < len(lines):
-                        nxt = clean(lines[i + 1])
-                        if nxt and not is_junk(nxt) and not result["조건"]:
-                            result["조건"] = nxt[:150]
-                for kw in CONTENT_KEYWORDS:
-                    if line.strip() == kw and i + 1 < len(lines):
-                        nxt = clean(lines[i + 1])
-                        if nxt and not is_junk(nxt) and not result["내용"]:
-                            result["내용"] = nxt[:150]
-
-                if result["조건"] and result["내용"]:
-                    break
-
+# ── 개별 공고 페이지에서 요약 추출 (일반 방식) ──────
+def fetch_summary(url):
+    """
+    requests로 HTML을 받아서 요약을 추출합니다.
+    JS 렌더링이 필요 없는 사이트에 사용합니다.
+    JS 사이트는 fetch_summary_playwright()를 사용하세요.
+    """
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=8)
+        response.encoding = "utf-8"
+        return _parse_summary_from_html(response.text)
     except requests.exceptions.Timeout:
         log(f"  요약 시간 초과: {url[:50]}")
     except Exception:
         pass
+    return {"조건": "", "내용": ""}
 
-    return result
+
+# ── 개별 공고 페이지에서 요약 추출 (Playwright 방식) ─
+def fetch_summary_playwright(url):
+    """
+    실제 크롬 브라우저를 열어서 JS가 렌더링된 뒤의 HTML을 읽습니다.
+    서울문화재단, ARKO, KAWF 등 JS 사이트에 사용합니다.
+    일반 방식보다 느리지만(3~5초) JS로 만들어지는 내용도 읽을 수 있습니다.
+    """
+    try:
+        from playwright.sync_api import sync_playwright
+        with sync_playwright() as p:
+            # headless=True: 브라우저 창이 화면에 안 보이게 백그라운드로 실행
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page()
+            # 실제 사용자처럼 보이도록 User-Agent 설정
+            page.set_extra_http_headers({
+                "User-Agent": (
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/122.0.0.0 Safari/537.36"
+                )
+            })
+            # domcontentloaded: JS 실행 전 기본 HTML이 로드되면 진행
+            page.goto(url, timeout=30000, wait_until="domcontentloaded")
+            # JS가 화면을 그릴 때까지 3초 추가 대기
+            page.wait_for_timeout(3000)
+            html = page.content()
+            browser.close()
+        return _parse_summary_from_html(html)
+    except Exception as e:
+        log(f"  Playwright 실패: {url[:50]} ({e})")
+    return {"조건": "", "내용": ""}
 
 
 # ── 만료된 프로그램 제거 ─────────────────────────
@@ -523,26 +543,31 @@ def search_web_for_programs():
 
     # 제목에 이 키워드 중 하나라도 있어야 관련 있는 공고로 판단
     INCLUDE_KEYWORDS = [
-        "음악", "뮤직", "뮤지션", "밴드", "아티스트", "공연", "창작",
+        "음악", "뮤직", "뮤지션", "밴드", "아티스트", "창작",
         "인디", "앨범", "레코딩", "음반", "작곡", "싱어송라이터",
     ]
 
-    # 제목에 이 키워드가 있으면 제외 (생활지원, 행정성 공고)
+    # 제목에 이 키워드가 있으면 무조건 제외
     EXCLUDE_KEYWORDS = [
         "생활안정", "융자", "채용", "입찰", "용역", "돌봄",
         "성희롱", "교육", "세미나", "포럼", "토론회",
         "연구용역", "시스템 구축", "유지보수",
-        "선정결과",  # 이미 마감된 공고 (선정 결과 발표)
-        "합격자",    # 채용 관련
+        "선정결과", "합격자", "심의일정", "심의 일정",
+        "보도자료", "press", "뉴스", "기사",  # 뉴스/보도 기사 제외
+        "오디션", "audition",                 # 오디션 (지원사업 아님)
+        "콘테스트", "contest", "경연",        # 경연대회 (지원사업 아님)
+        "전통", "국악", "무형유산", "민요",   # 전통예술 (범위 외)
+        "무용", "연극", "뮤지컬", "미술",     # 타 예술 장르
+        "공연장상주", "단체육성",             # 단체 대상 사업
     ]
 
     # 신뢰할 수 있는 도메인 (공공기관, 재단, 문화 관련)
     TRUSTED_DOMAINS = [
-        ".go.kr", ".or.kr", ".re.kr",           # 공공/비영리
-        "arko.or.kr", "sfac.or.kr", "kawf.kr",  # 주요 예술 기관
-        "kocca.kr", "kofic.or.kr",               # 콘텐츠 기관
-        "sangsangmadang.com", "grounz.net",      # 음악 플랫폼
-        "musicfund", "artfund", "foundation",    # 재단 관련
+        "arko.or.kr", "sfac.or.kr", "kawf.kr",   # 주요 예술 기관
+        "kocca.kr",                                # 콘텐츠 기관
+        "sangsangmadang.com", "grounz.net",        # 음악 플랫폼
+        "ebs.co.kr",                               # EBS
+        "bizinfo.go.kr",                           # 정부 지원사업 포털
     ]
 
     log("웹 검색으로 새 출처 탐색 시작")
@@ -558,14 +583,15 @@ def search_web_for_programs():
             if url in found:
                 continue
 
-            # 신뢰 도메인 체크
+            # 신뢰 도메인 또는 제목에 음악 키워드 포함 여부
             is_trusted = any(domain in url for domain in TRUSTED_DOMAINS)
-
-            # 제목 관련성 체크
             has_keyword = any(kw in title for kw in INCLUDE_KEYWORDS)
             is_excluded = any(kw in title for kw in EXCLUDE_KEYWORDS)
 
-            if (is_trusted or has_keyword) and not is_excluded:
+            # 현재 연도가 제목에 없으면 제외 (오래된 공고 방지)
+            has_year = str(year) in title
+
+            if (is_trusted or (has_keyword and has_year)) and not is_excluded:
                 found[url] = title
 
         time.sleep(1)  # 검색 간 1초 대기 (서버 부담 방지)
@@ -639,11 +665,33 @@ def main():
         if not isinstance(p.get("summary"), dict)
         or not (p["summary"].get("조건") or p["summary"].get("내용"))
     ]
+
+    # JS 렌더링이 필요한 사이트 도메인 목록
+    # 이 사이트들은 Playwright(실제 브라우저)로 읽어야 내용이 보임
+    JS_SITES = [
+        "sfac.or.kr",       # 서울문화재단
+        "arko.or.kr",       # 한국문화예술위원회
+        "kawf.kr",          # 한국예술인복지재단
+        "ifac.or.kr",       # 인천문화재단
+        "swcf.or.kr",       # 수원문화재단
+        "kocca.kr",         # 한국콘텐츠진흥원
+        "artnuri.or.kr",    # 아트누리
+    ]
+
     if need_summary:
         log(f"요약 수집 시작: {len(need_summary)}개 프로그램")
         for i, program in enumerate(need_summary, 1):
+            url = program["url"]
             log(f"  [{i}/{len(need_summary)}] {program['name'][:40]}")
-            summary = fetch_summary(program["url"])
+
+            # JS 사이트이면 Playwright, 아니면 일반 방식 사용
+            use_playwright = any(domain in url for domain in JS_SITES)
+            if use_playwright:
+                log(f"    → Playwright(브라우저) 방식 사용")
+                summary = fetch_summary_playwright(url)
+            else:
+                summary = fetch_summary(url)
+
             program["summary"] = summary
             time.sleep(0.5)  # 서버 부담 방지
         log("요약 수집 완료")
