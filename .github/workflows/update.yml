@@ -1,0 +1,43 @@
+name: 매주 지원사업 자동 업데이트
+
+on:
+  # 매주 월요일 오전 9시 (한국 시간 = UTC 00:00)에 자동 실행
+  schedule:
+    - cron: '0 0 * * 1'
+  # GitHub에서 수동으로 실행 버튼을 눌러도 실행됨
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 저장소 코드 가져오기
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      # 2. Python 설치
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. 필요한 라이브러리 설치
+      - name: 라이브러리 설치
+        run: |
+          pip install requests beautifulsoup4 playwright
+          playwright install chromium
+          playwright install-deps chromium
+
+      # 4. 스크래퍼 실행
+      - name: 스크래퍼 실행
+        run: python scraper.py
+
+      # 5. 변경된 programs.json을 GitHub에 저장
+      - name: programs.json 업데이트 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add programs.json
+          git diff --staged --quiet || git commit -m "자동 업데이트: $(date '+%Y-%m-%d')"
+          git push
