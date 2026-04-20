@@ -1,21 +1,6 @@
 {
-  "updated_at": "2026-04-09",
+  "updated_at": "2026-04-20",
   "programs": [
-    {
-      "id": "ktg-band-discovery-2026",
-      "name": "2026 밴드 디스커버리",
-      "organization": "KT&G 상상마당",
-      "deadline": "2026-04-10",
-      "amount": "800만원",
-      "target": "2020년 이후 데뷔, 오리지널 곡 3곡 이상 보유 뮤지션 (장르 무관, 연령 제한 없음)",
-      "url": "https://www.sangsangmadang.com/",
-      "source": "manual",
-      "urgent": true,
-      "summary": {
-        "조건": "",
-        "내용": ""
-      }
-    },
     {
       "id": "arko-music-2026",
       "name": "문예진흥기금 — 음악 창작활동지원",
@@ -264,6 +249,171 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://grounz.net/announcement/view/5532",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "kawf-0692be83",
+      "name": "2026년 예술로(路) 기획사업 1차 서류심의 결과 및 2차 PT·인터뷰 심의 안내",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-7d98c64b",
+      "name": "2026대중음악 국내외 협업 프로젝트지원| 문화지원사업 | 문화지원사업 통합서비스 | 누려요 문화혜택 | 문화....",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://culture.go.kr/portal/cltBnf/cltSup/view.do?menuNo=200104&viewTp=2&rcrtSn=212692",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "예술인,관련종사자,기업·단체",
+        "내용": "협약체결 후 확정된 지원금의 70% 지급"
+      }
+    },
+    {
+      "id": "web-b7c1f9ee",
+      "name": "2026년도 튠업 27기뮤지션공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.wevity.com/index_university.php?gbn=viewok&ix=104458",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-7e55abfc",
+      "name": "2026년도 튠업 27기뮤지션공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.wevity.com/?c=find&gbn=viewok&ix=104458",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-83bb329e",
+      "name": "공고 : 「2026창작예술지원공모사업」예술인(단체) 모집 공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.cfsc.or.kr/contents/open/open0101.asp?mode=view&aseq=3700",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-0997b721",
+      "name": "2026년 예술창작지원사업공모- 1764830202757.pdf",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=CRL3458&key=2301170002&seNo=001",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-5cd4ae44",
+      "name": "2026인디음악 지원사업, 신인뮤지션이라면지원해야 할까? - edenhallpic play100",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://edenhallpic.com/k-indie-musician-support-system2/",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-f47f24b0",
+      "name": "KT&G 상상마당, 인디 뮤지션 발굴 ‘2026밴드디스커버리’공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.nanumy.co.kr/news/articleView.html?idxno=4005084",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-23d4f415",
+      "name": "KT＆G 상상마당, 인디 뮤지션 발굴 프로그램 '2026밴드디스커버리'공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.yna.co.kr/view/RPR20260312002500353",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-538c16dd",
+      "name": "KT&G 상상마당, 인디 뮤지션 발굴 프로그램 ‘2026밴드디스커버리’공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ngonews.kr/news/articleView.html?idxno=226052",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-d060d0c2",
+      "name": "한국문화예술위원회 >공모안내 > 사업공모>공모(목록)",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.arko.or.kr/board/list/4013?bid=463&sf_icon_category=cw00000019",
       "source": "web-search",
       "urgent": false,
       "summary": {
