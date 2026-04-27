@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20",
+  "updated_at": "2026-04-27",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -419,6 +419,51 @@
       "summary": {
         "조건": "",
         "내용": ""
+      }
+    },
+    {
+      "id": "kawf-9c951083",
+      "name": "2026년 예술로(路) 협업사업 리더예술인 1차 서류심의 결과 및 2차 면접심의 안내",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "kawf-844a125c",
+      "name": "2026년 예술로(路) 기획사업 참여 팀 선정 심의 결과 안내",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-8e0f376d",
+      "name": "2026년도 튠업 27기뮤지션공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://linkareer.com/activity/296124",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "시작일2026.01.18마감일2026.02.20",
+        "내용": "앨범제작 지원"
       }
     }
   ]
