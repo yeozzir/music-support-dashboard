@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27",
+  "updated_at": "2026-05-04",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -464,6 +464,291 @@
       "summary": {
         "조건": "시작일2026.01.18마감일2026.02.20",
         "내용": "앨범제작 지원"
+      }
+    },
+    {
+      "id": "web-808829b7",
+      "name": "(재공고)2026년 서울문화재단 K-Art 청년창작자지원사업",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.sfac.or.kr/participation/participation/artspace_project.do?prjIdx=303&step=1",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026-04-08 ~ 2026-04-08",
+        "내용": "ㅇ 연간 창작활동 사례비"
+      }
+    },
+    {
+      "id": "web-ff05f2ef",
+      "name": "2026예술창작지원사업공모(설명회 11.26. / 접수 12. 4. ~ 12. 26.) - 인천문화재단",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://ifac.or.kr/artsSupProjects/supProjects/view.do?bbsSn=235461&key=m2501143953255",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": ": 2025",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-f74cba8e",
+      "name": "2026년 K-Art 청년창작자지원 사업 공고|사업공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.smes.go.kr/main/sportsBsnsPolicy/view?viewPblancSeq=252872173",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "지역별 상이",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-39a14177",
+      "name": "[공고제2026-29호]2026경북음악창작소 대중음악콘텐츠 제작지원사업 공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://054soundville.or.kr/2026/03/18/%EA%B3%B5%EA%B3%A0-%EC%A0%9C2026-29%ED%98%B8-2026-%EA%B2%BD%EB%B6%81%EC%9D%8C%EC%95%85%EC%B0%BD%EC%9E%91%EC%86%8C-%EB%8C%80%EC%A4%91%EC%9D%8C%EC%95%85-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%A0%9C%EC%9E%91/",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-9bac449b",
+      "name": "2026서울음악 창작공간 및 프로그램 운영지원사업",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=126D00070005&menuNo=204104",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026. 3. 20.(금) ~ 2026. 4. 3.(금) 14:00:00까지(e나라도움 시스템 시간 기준)",
+        "내용": "1개 기관 내외, 최대 150백만원"
+      }
+    },
+    {
+      "id": "web-356b5c45",
+      "name": "2026서울음악 창작공간 및 프로그램 운영지원사업최종선정 결과 안내",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kocca.kr/kocca/bbs/view/B0000137/2011328.do?menuNo=204802&categorys=0",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026. 3. 20.(금) ~ 4. 3.(금) 14:00 / 2개 과제 접수",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-679d2c09",
+      "name": "2026경남음악창작소 음반 제작지원사업뮤지션 모집공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.musisis.or.kr/board/notice/show/921",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-8b24aca8",
+      "name": "2026년도 CJ 문화재단 튠업 27 기뮤지션공모요강",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.cjazit.org/download/guide/82",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-b8450973",
+      "name": "GROUNZgrounz.net›announcement",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement?category=0",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-5d1d316a",
+      "name": "Linkpie 5월 프로필 디자인 이벤트",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5674",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-add9f2cb",
+      "name": "2026 뮤즈온 참가 뮤지션 모집공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5658",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-f5be523a",
+      "name": "2026 경남 청년 버스킹 챌린지 참가자 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5685",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-f1286d1f",
+      "name": "2026 SMile Music Festival 청소년 참가팀 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5684",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-50771221",
+      "name": "2026 예술산업보증 5월(2차) 공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5683",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-80a1591a",
+      "name": "2026년 강릉문화재단 청년신진예술인지원사업 공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5681",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-8f5d317e",
+      "name": "2026 예술지원 매칭펀드 2차 공모 참여 신청 안내",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5680",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-bf0dc4f7",
+      "name": "제6회 경흥대로 도봉옛길 문화제 - 도봉옛길 예술상단 거리행렬 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5679",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-bb6cc3fb",
+      "name": "[결과발표]2026년 예술창작활동지원최종 심의결과 발표(공연예술)",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.scas.kr/guidinfo/notice/detail/149",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-74db94ee",
+      "name": "한국음악의 미래를 찾는다.. ‘202621c한국음악프로젝트 ’ 참가작공모시작",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "http://www.newsin.co.kr/news/articleView.html?idxno=129428",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
       }
     }
   ]
