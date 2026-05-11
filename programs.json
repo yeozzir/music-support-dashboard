@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04",
+  "updated_at": "2026-05-11",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -744,6 +744,81 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "http://www.newsin.co.kr/news/articleView.html?idxno=129428",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "kawf-87305e86",
+      "name": "2026년 예술로(路) 협업사업 리더예술인 2차 심의 최종 결과발표",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "kawf-fb55bdbd",
+      "name": "「예술인경력정보시스템 재구축을 위한 정보화전략계획(ISP) 수립」우선협상대상자 공고",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "kawf-8be3d8c2",
+      "name": "2026년 예술로(路) 협업사업 참여예술인 모집(연장)",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-69387584",
+      "name": "KT&G, 인디 뮤지션 발굴 프로그램 ‘2026밴드디스커버리’공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "http://www.gyeryongilbo.com/news/articleView.html?idxno=55605",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-9ef0ed7b",
+      "name": "KT&G 상상마당, 인디 뮤지션 발굴 프로그램 ‘2026밴드디스커버리’공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=84965",
       "source": "web-search",
       "urgent": false,
       "summary": {
