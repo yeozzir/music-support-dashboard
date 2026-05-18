@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11",
+  "updated_at": "2026-05-18",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -819,6 +819,51 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=84965",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-537ebd79",
+      "name": "한국콘텐츠진흥원, 신기술 융합음악 창작경쟁력 강화 ‘2026신기술 융합음악콘텐츠 개발지원’사업 공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kocca.kr/kocca/koccanews/reportview.do?menuNo=204767&nttNo=1117",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-7069d809",
+      "name": "2026경남음악창작소 음반 제작지원사업뮤지션 모집공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.gcaf.or.kr/bbs/board.php?bo_table=sub3_7&wr_id=2129",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-bf8d466b",
+      "name": "KT&G 상상마당, 인디 뮤지션 발굴 프로그램 ‘2026밴드디스커버리’공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.newsband.kr/news/articleView.html?idxno=549715",
       "source": "web-search",
       "urgent": false,
       "summary": {
