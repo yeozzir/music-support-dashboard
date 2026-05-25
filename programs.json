@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18",
+  "updated_at": "2026-05-25",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -864,6 +864,171 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://www.newsband.kr/news/articleView.html?idxno=549715",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-b6503820",
+      "name": "☞2026년 공연예술창작주체(창작공간)공고바로가",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.artnuri.or.kr/crawler/info/view.do?docid=CRL3299&seNo=001&key=2301170002",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-26f301a2",
+      "name": "Pie Live | 7,8월 공연 뮤지션 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5783",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-fdc49656",
+      "name": "2026 충주 다이브 페스티벌 AI 다이브 주제가 공모전",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5823",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-5ee8fbcc",
+      "name": "Backline Stage : LIVE WAVE 제1회 밴드 공모전",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5822",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-719bfb1f",
+      "name": "두루두루컴퍼니 인재영입 프리랜서 협업자 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5821",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-297d5216",
+      "name": "2026 서울예술단 제3회 공연 콘텐츠 공모전",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5820",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-71d691c8",
+      "name": "PAPERMAKER 작가 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5819",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-414378d1",
+      "name": "[휘닉스파크평창] 하계시즌 공연팀 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5818",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-5073e51c",
+      "name": "2026 광주음악창작소 뮤지션 제작지원 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5817",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-73b12074",
+      "name": "2026예술창작지원사업 일반지원최종 선정 결과공고- 인천문화재단",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://ifac.or.kr/artsSupProjects/supProjects/view.do?bbsSn=235759&key=m2501143953255",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-679bcdf9",
+      "name": "[공고마감]2026성북문화재단 예술인창작활동 지원사업 [프로젝트 앳@]공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.sbculture.or.kr/culture/bbs/BMSR00021/view.do?boardId=31246&menuNo=5",
       "source": "web-search",
       "urgent": false,
       "summary": {
