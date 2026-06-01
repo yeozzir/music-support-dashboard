@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25",
+  "updated_at": "2026-06-01",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -1029,6 +1029,276 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://www.sbculture.or.kr/culture/bbs/BMSR00021/view.do?boardId=31246&menuNo=5",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "kawf-8206d984",
+      "name": "「그루하우스 예술인지원주택 커뮤니티 운영 지원(서초, 서대문)」우선협상대상자 공고",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "kawf-72141124",
+      "name": "「예술인 공제사업 상품운용사 선정」공고",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-77f52bff",
+      "name": "2026년 세종음악창작소 버스킹 음향 장비지원사업 공고읽기 : 공지/공고| 소개/커뮤니티",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.nurirock.or.kr/base/board/read?boardManagementNo=1&boardNo=373&menuLevel=2&menuNo=38",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-baf64203",
+      "name": "2026년 서울문화재단 K-Art 청년창작자지원사업",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.sfac.or.kr/participation/participation/artspace_project.do?prjIdx=302&step=1",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026-03-03 ~ 2026-03-30",
+        "내용": "ㅇ 연간 창작활동 사례비"
+      }
+    },
+    {
+      "id": "web-e2556563",
+      "name": "2026서울음악 창작공간 및 프로그램 운영지원사업",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=126D00070005&menuNo=204066",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026. 3. 20.(금) ~ 2026. 4. 3.(금) 14:00:00까지(e나라도움 시스템 시간 기준)",
+        "내용": "1개 기관 내외, 최대 150백만원"
+      }
+    },
+    {
+      "id": "web-fb7fbff5",
+      "name": "[공고]2026충남음악창작소 배리어프리 기획공연지원사업모집공고>사업공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://ccon.kr/bbs/board.php?bo_table=bsnt&wr_id=2001",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-b4b6c366",
+      "name": "2026 인디스땅스",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5837",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-cbe06cf7",
+      "name": "2026년 대중음악 해외 쇼케이스(Korea Spotlight) 참가 뮤지션 및 비즈니스 참가기업 모집 공고(1차)",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5871",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-449eb90d",
+      "name": "2026 동대문구 문화자원 활용 창작 거리공연 공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5870",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-ee8f0833",
+      "name": "⌜틈새콘서트 시즌6⌟ 버스커 신청",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5869",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-eaf0b9ee",
+      "name": "2026 전주세계소리축제「소리 프린지」 참여자 모집 공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5868",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-86a00036",
+      "name": "2026년 서울청년문화패스 서포터즈 3기 '서청팬' 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5867",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-e1249a7f",
+      "name": "2026 충남 문화예술 후원 매칭펀드 사업 공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5865",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-061bce89",
+      "name": "2026년 경기도 예술인 기회소득",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5864",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-26dc65ca",
+      "name": "2026년 B·아티스테이(Busan+Artist+Stay) 참여자 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5863",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-2b7be7c0",
+      "name": "2026년 서울청소년뮤직페스티벌 참가자 모집(보컬·밴드)",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5862",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-520bd6e0",
+      "name": "2026예술창작 활동 지원사업 모집공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://culture.asan.go.kr/_culture/new/developer/m_board/m_board.asp?tb_nm=tbl_common_notice&m_mode=view&pds_no=20260522164300924786771",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-547d44ba",
+      "name": "KT&G 상상마당, ‘2026밴드디스커버리’공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=353486",
       "source": "web-search",
       "urgent": false,
       "summary": {
