@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01",
+  "updated_at": "2026-06-08",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -1299,6 +1299,201 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=353486",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "kawf-a4c97974",
+      "name": "2026년 『예술인 국민연금 보험료 지원』 사업 공고",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "kawf-0fb6af09",
+      "name": "2026년 개인 심리상담 신청 안내",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-b27459e5",
+      "name": "2026경남음악창작소 음반 제작지원사업서면 심사(1차) 결과 및 실연 심사(2차) 안내공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.gcaf.or.kr/bbs/board.php?bo_table=sub3_7&wr_id=2189",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-3115f3a4",
+      "name": "Linkpie 6월 프로필 디자인 제작 지원",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5883",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-cf6686ae",
+      "name": "2026 PENTA ROCKERS 펜타 락커즈 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5926",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-9998f45c",
+      "name": "MEGABOX SQUARE 7월 공연 아티스트 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5925",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-d1f44591",
+      "name": "GSOD 공상온도 오픈라이브",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5924",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-6661ed1e",
+      "name": "부산 남구 「청년 버스킹 참가자」 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5923",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-12ebe654",
+      "name": "2026 지역 뮤지션 지원 (2026 Come Together Music Fest) 참가 모집 안내 Share the site",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5922",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-59807665",
+      "name": "2026 <100만원 실험실> 참여자 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5921",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-c06bf509",
+      "name": "2026 충청북도청소년페스티벌 in 진천버스킹 공연 참가팀 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5919",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-425cf259",
+      "name": "GROUNZgrounz.net›announcement",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5853",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-78a96f51",
+      "name": "KT&G 상상마당, 뮤지션 발굴 ‘2026밴드디스커버리’공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=442693",
       "source": "web-search",
       "urgent": false,
       "summary": {
