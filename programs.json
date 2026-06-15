@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08",
+  "updated_at": "2026-06-15",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -1499,6 +1499,156 @@
       "summary": {
         "조건": "",
         "내용": ""
+      }
+    },
+    {
+      "id": "kawf-11b67934",
+      "name": "2026년 예술로(路) 협업사업 참여예술인 1차 서류심의 결과 및 2차 면접심의 안내",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-11fdedfc",
+      "name": "[공모] (재공고)2026년 서울문화재단 K-Art 청년창작자지원사업(4/7 13:50 업데이트)",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.sfac.or.kr/opensquare/notice/notice_list.do?bcIdx=137967",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-86e53855",
+      "name": "SBS <밴드왕> 🇰🇷한일🇯🇵 참가자 대모집!",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5968",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-5fb7186a",
+      "name": "2026년 LOCAL DISCOVERY 지역재단 예술기업매칭펀드 지원사업 참여예술인(단체) 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5966",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-4c07ef92",
+      "name": "2026 원도심 활성화 시민 공모사업 [2차] 공모 안내",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5964",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-e832fd2b",
+      "name": "[상금없음/초등] 고향의봄 100주년 기념 - 2026 고향의 봄 노랫말 공모전",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5963",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-a014c175",
+      "name": "2026 포항 영일대 뮤직&캠핑페스타 캠핑가요제 참가자 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5962",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-e62747c6",
+      "name": "2026 꿈꾸는 예술무대 예술단체 공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5961",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-d90e040a",
+      "name": "2026 예술로지역사업 예술로 이음 참여예술인 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/5960",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-657997a6",
+      "name": "2026년 문화예술창작지원사업 공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=S58689&key=2301170002&seNo=001",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "수원시 내 예술인 및 문화·예술단체",
+        "내용": "관내 전문예술인 및 단체가 추진하는 문화예술 창작활동 및 프로젝트"
       }
     }
   ]
