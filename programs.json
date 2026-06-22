@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15",
+  "updated_at": "2026-06-22",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -1649,6 +1649,201 @@
       "summary": {
         "조건": "수원시 내 예술인 및 문화·예술단체",
         "내용": "관내 전문예술인 및 단체가 추진하는 문화예술 창작활동 및 프로젝트"
+      }
+    },
+    {
+      "id": "kawf-6181818e",
+      "name": "「예술인 공제사업 상품운용사 선정」우선협상대상자 공고",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-f0abee0a",
+      "name": "2026예술창작지원사업일반지원최종 선정 결과공고- 인천문화재단",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://ifac.or.kr/bbs/view.do?bbsSn=235759&key=m2501152808232",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-0aaada6c",
+      "name": "[공고제2026-86호]2026경북음악창작소 대중음악콘텐츠 제작지원사업선정 결과",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://054soundville.or.kr/2026/05/22/%EA%B3%B5%EA%B3%A0-%EC%A0%9C2026-86%ED%98%B8-2026-%EA%B2%BD%EB%B6%81%EC%9D%8C%EC%95%85%EC%B0%BD%EC%9E%91%EC%86%8C-%EB%8C%80%EC%A4%91%EC%9D%8C%EC%95%85-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%A0%9C%EC%9E%91/",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-3e94808f",
+      "name": "2026 청년강사 육성지원사업 <청년강사 첫걸음> 시즌2 청년강사 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6016",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-58df798a",
+      "name": "2026 경기 청년예술 기회무대 참가자 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6015",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-4b1b7f97",
+      "name": "2026년 고래문화재단 ‘남구 거리음악회’ 하반기 지역예술인 모집 공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6014",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-c96443bb",
+      "name": "[버스킹플레이] 7월 요트 버스킹 공연팀 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6013",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-5d84836c",
+      "name": "국민의 멜로디 징글 공모전",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6012",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-a2e6142a",
+      "name": "[사운드컴바인] 초여름, ON/OFF 영상BGM 공모전",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6011",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-3da50a7a",
+      "name": "게임 'Dear. My Marionette' 게임음악 BGM 작곡 공모전 레모네이션",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6010",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-c32652a5",
+      "name": "'가을 밤,인디 음악의 향연'…2026경기인디뮤직페스티벌, 10월 수원서 개막",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.fnnews.com/news/202606080922284721",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-fa432ddf",
+      "name": "KT&G 상상마당, 인디 뮤지션 발굴 프로그램 ‘2026밴드디스커버리’공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "http://www.s-d.kr/news/articleView.html?idxno=79189",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-6186cf55",
+      "name": "KT&G | 인디 뮤지션 발굴 프로그램 ‘2026밴드디스커버리’공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.mk.co.kr/news/business/11987493",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
       }
     }
   ]
