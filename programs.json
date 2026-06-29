@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22",
+  "updated_at": "2026-06-29",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -1839,6 +1839,111 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://www.mk.co.kr/news/business/11987493",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "kawf-956869dc",
+      "name": "2026년 예술로(路) 협업사업 참여예술인 2차 심의 최종 결과발표",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-f2f7d55d",
+      "name": "[추가공고]2026년 대중음악공연 지역개최 활성화",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=126D00110008&menuNo=204104",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-feb19803",
+      "name": "[공고]2026충남음악창작소 배리어프리기획공연지원사업모집공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.cnmusicfactory.com/community/communitydetail.do?seq=478",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-9358c530",
+      "name": "‘2026경기인디뮤직페스티벌’ 10월 수원서 개최…음악·관광 결합 대표 축제 도약",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.jnewstimes.com/news/article.html?no=712503",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-93021634",
+      "name": "KT&G 상상마당, 인디 뮤지션 발굴 프로그램 '2026밴드디스커버리'공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=108703",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-9ed67d95",
+      "name": "공모|공모·소식 | 아르코 통합플랫폼",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://thearts.arko.or.kr/thearts/news/contest",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-fe90304d",
+      "name": "메인 | 아르코 통합플랫폼",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://thearts.arko.or.kr/thearts/",
       "source": "web-search",
       "urgent": false,
       "summary": {
