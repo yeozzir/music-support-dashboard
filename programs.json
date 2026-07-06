@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29",
+  "updated_at": "2026-07-06",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -1944,6 +1944,141 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://thearts.arko.or.kr/thearts/",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-d51105ad",
+      "name": "Linkpie 7월 프로필 디자인 제작 지원",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6081",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-ef253297",
+      "name": "DDP 버스킹 8월 아티스트 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6093",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-3648339c",
+      "name": "선재도 토요 버스킹 공연자 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6092",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-a247a50f",
+      "name": "[과천] 2026 과천공연예술축제 과천 집합쇼(GPAF-Show) 공모(~7/19)",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6090",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-3f71bcb9",
+      "name": "제51회 정선아리랑제 전국 아리랑 합창대회 참가자 모집 공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6089",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-d837b73a",
+      "name": "[제주] 2026년 제주 대표 공연 콘텐츠 유통 활성화 지원사업 공고",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6088",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-955778ec",
+      "name": "[부산]2026년도 부산국제공연예술마켓 개최 지역 창·제작 프로젝트 <글로벌 레퍼토리> 작품공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6087",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-7cba1d32",
+      "name": "2026년 오픈스테이지 뮤지션 모집",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6086",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-179d5b56",
+      "name": "KT&G 상상마당, 인디 뮤지션 발굴 '2026밴드디스커버리'공모",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.newspost.kr/news/articleView.html?idxno=221678",
       "source": "web-search",
       "urgent": false,
       "summary": {
