@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13",
+  "updated_at": "2026-07-20",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -2203,6 +2203,21 @@
       "urgent": false,
       "summary": {
         "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-9c8abae5",
+      "name": "2026년 K-Art 청년창작자지원사업공모공고- 대구문화예술진흥원 > 알림·참여 > 진흥원 소식 >공고/공모 > ....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.dgfca.or.kr/article/NOTICE/detail/13244",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": ": 2026",
         "내용": ""
       }
     }
