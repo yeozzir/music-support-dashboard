@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27",
+  "updated_at": "2026-08-03",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -2289,6 +2289,411 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://www.news-home.co.kr/news/articleView.html?idxno=57147",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-fdd64d2f",
+      "name": "2026년 K-Art 청년창작자지원 사업 공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000118805",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-4f767b9f",
+      "name": "2026년 세종음악창작소 버스킹 음향 장비지원사업 공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://artnuri.or.kr/crawler/info/view.do?docid=S60723&key=2301170002&seNo=001",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-298d42a8",
+      "name": "구리시음악창작소2026년 지역음악인 음원제작지원사업최종 선정 결과 발표 -....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.guri.go.kr/musiclab/selectBbsNttView.do?bbsNo=983&key=4935&nttNo=141958",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-e8e182a8",
+      "name": "2026제주음악창작소 운영사업<국내·외음악활동지원> 뮤지션 모집 수정공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ofjeju.kr/bussiness/businessinfo/business.htm?act=view&id=490",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-139a5ec9",
+      "name": "구리시음악창작소2026년 지역음악인 음원제작지원사업최종 선정 결과 발표 -....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.guri.go.kr/musiclab/selectBbsNttView.do?key=4936&bbsNo=983&nttNo=141958",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-a6dcfa0a",
+      "name": "[공고]2026충남음악창작소 발굴뮤지션 후속지원모집공고>사업공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://ccon.kr/bbs/board.php?bo_table=bsnt&wr_id=1994",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-8b1d3c5b",
+      "name": "2026제주음악창작소 운영사업<국내·외음악활동지원> 뮤지션 모집 수정공고....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ofjeju.kr/communication/notifications.htm?act=view&seq=2073632",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-07802cf6",
+      "name": "2026년 대중음악 공연 제작지원새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=126D00110002&menuNo=204066",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "세부내용 공고문 참조",
+        "내용": "공연장소 임차료, 장비 임차료(악기, 음향, 조명 등), 온오프라인 홍보물, 포스터 제작 등 홍보비용,"
+      }
+    },
+    {
+      "id": "web-d57cad38",
+      "name": "[KT&G 상상마당]2026KT&G 상상마당 홍대 음악지원사업 <청춘비상> 안내새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.sungshin.ac.kr/bbs/ctpmusic/4718/154244/artclView.do",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-626aded4",
+      "name": "2026년 대중음악 해외 공연지원사업 공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119603",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-33b21383",
+      "name": "[(재)충남콘텐츠진흥원] 충남음악창작소2026음반제작지원'I AM A MUSICIAN' 모집공....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kongju.ac.kr/bbs/KNU/2132/425832/artclView.do",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-6cb91dc4",
+      "name": "[충북문화재단]2026예술인창작활동준비금지원사업 공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.momo365.net/Support?cd=support&ViewType=detail&seq=172052",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-a2675b72",
+      "name": "2026제주음악창작소 운영사업 <제주인디서킷 프로젝트> 뮤지션 모집 공고 게....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ofjeju.kr/communication/notifications.htm?act=view&seq=2073621",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-129fe578",
+      "name": "[수원] 2026 수원화성 가을축제 「프린지 스테이지」 참여 공연팀 모집새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6252",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-271485e3",
+      "name": "[충남] 2026 충남 청년아트페스타 참여예술인 모집 공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6251",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-86b4e8ec",
+      "name": "[참가비 8만원] 제1회 협연 콩쿠르 9월 7일 마감새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6250",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-e9e7713e",
+      "name": "애니메이션 'DADA: MUSE!' BGM 음원 공모전 레모네이션새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6249",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-2a43e600",
+      "name": "[아산]2026 시민주도형 생활문화축제 <달리는 동아리> 참여 동호회 모집새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6248",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-b04d47b6",
+      "name": "[대구] 2026년 대구 예술사랑 메세나 매칭펀드사업 참여 예술단체 및 기업 2차 추가 모집새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6245",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-3eae000d",
+      "name": "26년 9월 언플러그드 오픈스테이지 참가 모집새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6244",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-98f0c976",
+      "name": "영화의전당, 무성영화와 라이브음악의 만남… 「2026BCC 필름 뮤직 페스티벌: ....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.indifocus.kr/79847",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-cc1baee7",
+      "name": "2026년 장애예술인창작활동 지원2차 모집공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.gwcf.or.kr/ko/culture-business/business-top/business.html?nttId=55897&action=read",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-607f1c34",
+      "name": "2026문화예술창작지원사업 선정결....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.swcf.or.kr/?p=95&viewMode=view&idx=110578",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": "정산 설명회"
+      }
+    },
+    {
+      "id": "web-e312c8b5",
+      "name": "[공지]2026[아트숲] 청소년밴드아티스트 모집 공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.dbfac.or.kr/front/board/boardContentsView.do?contents_id=29c44e2b381845e48fd3196c565bd643&board_id=1",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026. 6. 23.(화) ~ 7. 10(금)",
+        "내용": "- 주 2회 정기 합주를 위한 연습공간 및 기본 밴드 장비 사용 지원 - 전문 멘토를 통한 합주 지도 및 곡 구성·편곡 등 음악활동 역량 강화 지원 - 서울청년센터 도봉 협력공연 무대 경험 제공(9~10월 예정) - 청소년예술공간 채움 기획공연 ‘락락콘서트’ 참여 기회"
+      }
+    },
+    {
+      "id": "web-841d550f",
+      "name": "2026학생밴드영상 콘텐츠공모새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://use.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1566&q_bbsDocNo=20260318102535990",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-4bc1155b",
+      "name": "2026은평생활문화센터 주민기획 아마추어밴드대모집새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.seoularts.ac.kr/web/cop/bbsWeb/selectBoardDetail.do?nttId=242030",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026. 5. 4.(월) ~ 5. 17.(일)",
+        "내용": "멘토링, 레슨, 공연 기회, 공간 등 제공"
+      }
+    },
+    {
+      "id": "web-95ec1951",
+      "name": "아마추어밴드인큐베이터 ‘2026년 누리락밴드’공모새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.sportssejong.com/news/articleView.html?idxno=1381",
       "source": "web-search",
       "urgent": false,
       "summary": {
