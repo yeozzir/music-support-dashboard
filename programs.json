@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03",
+  "updated_at": "2026-08-10",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -2694,6 +2694,96 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://www.sportssejong.com/news/articleView.html?idxno=1381",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-86af21dd",
+      "name": "2026제주음악창작소 운영사업<글로벌 JEMU 캠프> 뮤지션 모집공고게시물 상세....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ofjeju.kr/communication/notifications.htm?act=view&seq=2073769",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-bd18b684",
+      "name": "2026예술인창작활동준비금지원사업 공고- 공모ㆍ지원사업(상세) | 알리미 | 지....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.culture.go.kr/localperform/amateur/spProject/view.do?rcrtSn=220567&menuNo=400014&pageIndex=2",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026-07-01~2026-07-10 마감",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-cd24ef1f",
+      "name": "[수정공고]2026대중음악 국내외 협업 프로젝트지원- 한국콘텐츠진흥원새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://bora.kocca.kr/kocca/pims/view.do?menuNo=204104&intcNo=126D00110004",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": "협약체결 후 확정된 지원금의 70% 지급"
+      }
+    },
+    {
+      "id": "web-5ebcd7cd",
+      "name": "2026제주음악창작소 운영사업 <제주인디서킷 프로젝트> 뮤지션 모집 공고 게....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ofjeju.kr/communication/notifications/notice.htm?act=view&seq=2073621",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-93bbe863",
+      "name": "[공고]2026'청소년 뮤지션지원' 스쿨락 참여자 모집 (4.1.~4.15.) 읽기 : 공지/공고....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.nurirock.or.kr/base/board/read?boardManagementNo=1&boardNo=372&menuLevel=2&menuNo=38",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-9b04b4e4",
+      "name": "2026년 천안문화재단 천안 예술창작지원사업 2차 공모새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "http://cnc.cacf.or.kr/main/html/sub04/0406.html?mode=D&no=54fca1321ebbe2169d88c3a761df786a&file_id=21068",
       "source": "web-search",
       "urgent": false,
       "summary": {
