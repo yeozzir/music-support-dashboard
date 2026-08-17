@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10",
+  "updated_at": "2026-08-17",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -2784,6 +2784,141 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "http://cnc.cacf.or.kr/main/html/sub04/0406.html?mode=D&no=54fca1321ebbe2169d88c3a761df786a&file_id=21068",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-9e10a758",
+      "name": "2026제주음악창작소 운영사업<2차 레코딩지원프로그램> 뮤지션 모집공고게....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ofjeju.kr/communication/notifications/notice.htm?act=view&seq=2073768",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-578f0f99",
+      "name": "[공고]2026충남음악창작소 발굴뮤지션 후속지원(해외공연 참가지원) 모집공고....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://ccon.kr/bbs/board.php?bo_table=bsnt&wr_id=2070",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-809d5c4d",
+      "name": "2026제주음악창작소 운영사업<글로벌 JEMU 캠프> 뮤지션 모집공고- WelCon 콘텐....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://welcon.kocca.kr/en/info/business/1958349",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026. 8. 6.(목)~8. 19.(수) / 14일간",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-b3b58269",
+      "name": "2026년 대중음악 음반 제작지원공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119328",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-1d5e7bd9",
+      "name": "2026년 글로벌 뮤직 페어(MU:CON2026) 쇼케이스ㆍ비즈니스 프로그램 참가뮤지션....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?intcNo=326D00110003&menuNo=204104",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "국내에서 활동 중인 뮤지션 중 해외 음악시장 진출을 준비 또는 추진 중인 뮤지션",
+        "내용": "대중음악산업팀 조은성 대리(☏ 061-900-6454 / ？ canyon@kocca.kr)"
+      }
+    },
+    {
+      "id": "web-0ebc63e3",
+      "name": "「2026년 세종음악창작소 누리락 운영사업」 뮤즈세종뮤지션모집 공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.nurirock.or.kr/download/BASIC_ATTACH?storageNo=1919",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-0885d2b0",
+      "name": "2026제주음악창작소 운영사업 <2026인디안아 Zone's> 뮤지션 모집 공고 게시물 상....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ofjeju.kr/communication/notifications.htm?qType=title&q=&act=view&seq=2073609",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-01530ad0",
+      "name": "2026글로벌인디게임제작 경진대회(GIGDC2026)새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.wevity.com/?c=find&gbn=viewok&ix=108154",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-f3a7ea64",
+      "name": "KT&G 상상마당, ‘2026밴드디스커버리’공모…인디 뮤지션 발굴새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.cnbizm.com/news/articleView.html?idxno=208390",
       "source": "web-search",
       "urgent": false,
       "summary": {
