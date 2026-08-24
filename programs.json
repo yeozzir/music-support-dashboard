@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17",
+  "updated_at": "2026-08-24",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -2919,6 +2919,231 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://www.cnbizm.com/news/articleView.html?idxno=208390",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-ed4f6489",
+      "name": "[광주음악창작소]2026광주음악창작소 영화음악크리에이터지원모집공고| ....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://edro.co.kr/board.es?mid=a10101000000&bid=0002&list_no=25783&act=view",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026/08/10 ~ 2026/08/24",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-e0d030f9",
+      "name": "2026경남음악창작소 음반 제작지원사업실연 심사(2차) 결과 안내공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.gcaf.or.kr/bbs/board.php?bo_table=sub3_7&wr_id=2201",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-3c2e8a36",
+      "name": "2026년 글로벌 뮤직 페어(MU:CON2026) 쇼케이스ㆍ비즈니스 프로그램 참가뮤지션....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kocca.kr/kocca/bbs/view/B0000137/2012159.do?menuNo=204802&categorys=0",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026. 06. 15. (월) - 2026. 07. 02. (목) / 정오까지",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-a5264e2b",
+      "name": "2026년 글로벌 뮤직 페어(MU:CON2026) 비즈니스 참가기업 모집새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kocca.kr/kocca/pims/view.do?&menuNo=204104&intcNo=326D00110004",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "해외 음악 및 엔터테인먼트 시장 진출을 준비 또는 추진 중인 국내 음악 및 음악 관련 엔터테인먼트 분야 관련 기업",
+        "내용": "대중음악산업팀 조은성 대리(061-900-6454 / canyon@kocca.kr)"
+      }
+    },
+    {
+      "id": "web-d9da8c82",
+      "name": "Pie Live | 10~12월 공연 뮤지션 모집새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6337",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-0a06fd58",
+      "name": "[전남 광산구] 청소년의 날 축제 무대공연팀 모집새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6390",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-40571b64",
+      "name": "[송파구] 2026 송파구 청년축제 공연팀 모집새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6389",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-a193cf0d",
+      "name": "국립정동극장 세실 '2027 창작ing' 작품 공모새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6387",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-6fe7ad73",
+      "name": "[부산 남구] 예술활동 공간지원 공모새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6386",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-fbac4393",
+      "name": "제6회 부산진구 버스킹 페스티벌 출연진 모집새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6384",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-baa20daa",
+      "name": "블랙페이퍼 영화 스태프 모집 [사운드디자인·음악감독]새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6383",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-2f03420d",
+      "name": "[충북 증평군] 보강천 숲속 오픈스테이지 참가 모집새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6382",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-2a913171",
+      "name": "GROUNZgrounz.net›announcement새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6036",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-9451e763",
+      "name": "2026울산 학생밴드영상 콘텐츠공모전새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://use.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsSn=1009&q_bbsDocNo=20260330093030892",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-bd32a5ec",
+      "name": "KT&G '2026밴드디스커버리'공모새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.starnewskorea.com/business-life/2026/03/12/2026031211031233454",
       "source": "web-search",
       "urgent": false,
       "summary": {
