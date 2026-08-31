@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24",
+  "updated_at": "2026-08-31",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -3144,6 +3144,81 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://www.starnewskorea.com/business-life/2026/03/12/2026031211031233454",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-9404f610",
+      "name": "알림마당 > 공지사항-상세화면 > [공고제2026-9호] 「2026년 전북 레드콘음악창작....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.jcon.or.kr/board/view.php?nttId=4262&pageId=C000000016",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-71dd93d1",
+      "name": "알림마당 > 공지사항-상세화면 > [공고제2026-132호] 「2026전북 레드콘음악창작....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.jcon.or.kr/board/view.php?nttId=4526&pageId=C000000016",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "전북 내 거주 또는 재학, 재직 중인 청년(18~39세)",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-795262ae",
+      "name": "2026년 대중음악 해외 쇼케이스(Korea Spotlight) 참가뮤지션2차 선정 결과 안내새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kocca.kr/kocca/bbs/view/B0000137/2012140.do?menuNo=204802&categorys=0",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026. 06. 05. (금) - 2026. 06. 22. (월) / 23:59",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-cd9d50ad",
+      "name": "2026제20회 21c한국음악프로젝트 참가작품공모전새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.wevity.com/index.php?c=find&s=1&mode=future&gub=3&cidx=6&gbn=viewok&gp=1&ix=104405",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-71dbaef8",
+      "name": "2026년 오유아트홀 무대 실연 아티스트 추가모집 공고문 - 강남문화재단 > 열린....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.gangnam.go.kr/office/gfac/board/gfac_notice/634/view.do?mid=gfac_notice",
       "source": "web-search",
       "urgent": false,
       "summary": {
