@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31",
+  "updated_at": "2026-09-07",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -3219,6 +3219,126 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://www.gangnam.go.kr/office/gfac/board/gfac_notice/634/view.do?mid=gfac_notice",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-2196a691",
+      "name": "2026제주음악창작소 운영사업<레코딩지원프로그램> 뮤지션 모집공고게시물....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ofjeju.kr/communication/notifications.htm?act=view&seq=2073544",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-5df5668a",
+      "name": "2026년 예술인 창작준비금지원사업공모안내 - 울산문화관광재단새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://uctf.or.kr/board/notice/view/202411167581",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-bc466a23",
+      "name": "1. 공고문_2026대중음악 음반 제작지원.hwp새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.winwinnuri.or.kr/cmm/FileDown.do?atchFileId=248598&fileSno=1",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-afe9188c",
+      "name": "2026년 마포문화재단 인디지원프로그램 <인디스커버리> LINEUP뮤지션선정 결과새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.mfac.or.kr/communication/notice_all_view.jsp?sc_b_code=BOARD_1207683401&sc_type=2&pk_seq=9175",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-1c8405e7",
+      "name": "2026년 마포문화재단인디지원프로그램 <인디스커버리> 뮤지션공모새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.mfac.or.kr/communication/notice_all_view.jsp?sc_b_code=BOARD_1207683401&sc_type=2&pk_seq=9026",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-2fe340de",
+      "name": "2026뮤즈세종 뮤지션 서류 심사 결과공고읽기 : 공지/공고| 소개/커뮤니티새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.nurirock.or.kr/base/board/read?boardManagementNo=1&boardNo=371&menuLevel=2&menuNo=38",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-1d3f2e94",
+      "name": "2026<음악문화공간 지음 및 사운드 스튜디오 활성화를 위한 공모> 참여 예술인(....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.bpcf.or.kr/ebpcf/bbs/BMSR00001/view.do?boardId=13681&menuNo=300044",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026. 8. 19.(수) ~ 9. 6.(일) 18:00",
+        "내용": "음향 기술 지원, 프로그램비 운영비 최대 150만 원 등"
+      }
+    },
+    {
+      "id": "web-644b1c00",
+      "name": "KT&G 상상마당, 인디 뮤지션 발굴 프로그램 ‘2026밴드디스커버리’공모새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ktng.com/media/news/press-release/detail/305034",
       "source": "web-search",
       "urgent": false,
       "summary": {
