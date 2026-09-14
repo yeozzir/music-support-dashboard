@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07",
+  "updated_at": "2026-09-14",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -3339,6 +3339,111 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://www.ktng.com/media/news/press-release/detail/305034",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-5d9b8645",
+      "name": "[공고]2026충남음악창작소 발굴뮤지션 후속지원(해외공연 참가지원) 모집공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://welcon.kocca.kr/en/info/business/1958547",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-53581dfd",
+      "name": "2026년 신기술 융합음악콘텐츠 개발지원공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120328",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-bcc6018e",
+      "name": "2026년 예술인창작준비금지원사업심의 결과공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://uctf.or.kr/board/bid/view/202411230056",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-125ea348",
+      "name": "2026년 대중음악 해외 쇼케이스(Korea Spotlight) 참가뮤지션및 비즈니스 참가기업 ....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000756625&fileSn=0",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-a3fd4d3d",
+      "name": "2026제주음악창작소 운영사업 <2026인디 안아 Zone’s>뮤지션모집 공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ofjeju.kr/bussiness/businessinfo/business.htm?act=download&fidx=3307",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-8ddf2bcf",
+      "name": "2026제주음악창작소 운영사업 <2026인디안아 Zone's> 뮤지션 모집 공고 게시물 상....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ofjeju.kr/communication/notifications.htm?act=view&seq=2073609",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-69f5d589",
+      "name": "GROUNZgrounz.net›announcement새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6362",
       "source": "web-search",
       "urgent": false,
       "summary": {
