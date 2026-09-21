@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14",
+  "updated_at": "2026-09-21",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -3444,6 +3444,66 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://grounz.net/announcement/view/6362",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-5c4bee24",
+      "name": "2026년 전북 레드콘음악창작소새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.jb2030.or.kr/policy/p2_pol_view.html?id=191",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026-03-23 :00:0 ~ 2026-04-03 15:00",
+        "내용": "음원, 음반, M/V, 개별 콘서트 등 콘텐츠 제작 직접비 지원(약 600만원)"
+      }
+    },
+    {
+      "id": "web-933ca204",
+      "name": "2026광주음악창작소 영화음악크리에이터 모집공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.momo365.net/download.do?path=&fileName=20260806072213_1.%EB%AA%A8%EC%A7%91%EA%B3%B5%EA%B3%A0%EB%AC%B8.pdf",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-6cf11e49",
+      "name": "2026제주음악창작소 운영사업 <국내‧외음악활동 지원> 뮤지션 모집공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ofjeju.kr/bussiness/businessinfo/business.htm?act=download&fidx=3324",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-75e9b634",
+      "name": "2026학생밴드연주 영상 콘텐츠공모전새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://use.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsSn=1009&q_bbsDocNo=20260618134526859",
       "source": "web-search",
       "urgent": false,
       "summary": {
