@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21",
+  "updated_at": "2026-09-28",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -284,36 +284,6 @@
       "summary": {
         "조건": "예술인,관련종사자,기업·단체",
         "내용": "협약체결 후 확정된 지원금의 70% 지급"
-      }
-    },
-    {
-      "id": "web-b7c1f9ee",
-      "name": "2026년도 튠업 27기뮤지션공모",
-      "organization": "웹 검색 발견",
-      "deadline": "공고 참조",
-      "amount": "공고 참조",
-      "target": "공고 페이지에서 확인",
-      "url": "https://www.wevity.com/index_university.php?gbn=viewok&ix=104458",
-      "source": "web-search",
-      "urgent": false,
-      "summary": {
-        "조건": "",
-        "내용": ""
-      }
-    },
-    {
-      "id": "web-7e55abfc",
-      "name": "2026년도 튠업 27기뮤지션공모",
-      "organization": "웹 검색 발견",
-      "deadline": "공고 참조",
-      "amount": "공고 참조",
-      "target": "공고 페이지에서 확인",
-      "url": "https://www.wevity.com/?c=find&gbn=viewok&ix=104458",
-      "source": "web-search",
-      "urgent": false,
-      "summary": {
-        "조건": "",
-        "내용": ""
       }
     },
     {
@@ -3504,6 +3474,66 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://use.go.kr/news/user/bbs/BD_selectBbs.do?q_bbsSn=1009&q_bbsDocNo=20260618134526859",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-4f088a33",
+      "name": "<충남콘텐츠진흥원> 충남음악창작소2026배리어프리 기획공연지원사업새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.cacf.or.kr/site/board/index.php?table_nm=tbl_institution&fn=view&no=2026042115462096545",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-01d082f3",
+      "name": "★ 과제 접수 전 확인사항 ★ 1. 귀사가 참여하시려는 사업의 양식을 다운로드 ....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.bizinfo.go.kr/cmm/fms/fileDown.do?atchFileId=FILE_000000000745652&fileSn=0",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-54c42ecc",
+      "name": "77대1 경쟁률 뚫은 최종 10팀… 경콘진, `2026인디스땅스` 본선 진출팀 확정새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s026&number=5584",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-3fe51abc",
+      "name": "경기인디뮤직페스티벌 2026 - 수원새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://namu.wiki/w/%EA%B2%BD%EA%B8%B0%EC%9D%B8%EB%94%94%EB%AE%A4%EC%A7%81%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C#s-2.7",
       "source": "web-search",
       "urgent": false,
       "summary": {
