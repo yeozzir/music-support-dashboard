@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12",
+  "updated_at": "2026-10-19",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -3939,6 +3939,156 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://grounz.net/announcement/view/6690",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "kawf-f34fde78",
+      "name": "「예술인 공제사업 통합관리시스템 중장기 ISMP 수립」우선협상대상자 공고",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-6963d13f",
+      "name": "2026년 제4회 대전부르스 - 대전음악창작소새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://music.dicia.or.kr/music/ticket_view.do?lctrpgmId=LTPG_0000000000101",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-63b702d0",
+      "name": "대전정보문화산업진흥원, '2026대전음악창작소 음반제작지원사업' 참...새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.etnews.com/20260608000172",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-3d3b4797",
+      "name": "2026부산음악창작소 루키 스텝업지원사업 e나라도움공모사업 신청 설명서 예치형새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.bojo.go.kr/zz/retrieveAttach.do?docId=3f69f0c0-be77-4fcb-9d4d-5f5721275478&fileId=270aea2a-09af-4d89-9c11-5aa8dff1bb72",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-58b3c49f",
+      "name": "[공연] 마포문화재단, '2026인디스커버리 : FESTA' 개최새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.ppss.kr/news/articleView.html?idxno=312766",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-42eae4b4",
+      "name": "GROUNZgrounz.net›announcement새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-f88b7335",
+      "name": "📣 [2026 제20회 21c한국음악프로젝트] 참가작품 공모새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.youtube.com/watch?v=i42NSPTIFko",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-8ee5a47c",
+      "name": "2026경기인디뮤직페스티벌, 1차 출연진 공개 및 얼리버드 티켓 판매 시작-김포시민신문새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://m.gpsimin.com/44237",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-cb4c0fb3",
+      "name": "2026년 경기예술인 아카데미 예술창작공유회 〈창작의 순간〉 참여 예술인 모집 - 재단 공지/공고-....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://artist.ggcf.kr/boards/news/articles/1721",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-41a738ef",
+      "name": "KT&G 상상마당, ‘2026밴드디스커버리’ 우승팀 2팀 선정새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.newsinside.kr/news/articleView.html?idxno=4871281",
       "source": "web-search",
       "urgent": false,
       "summary": {
