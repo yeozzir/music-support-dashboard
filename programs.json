@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19",
+  "updated_at": "2026-10-26",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -4089,6 +4089,111 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://www.newsinside.kr/news/articleView.html?idxno=4871281",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-1394c931",
+      "name": "음반 만들고 해외 무대까지 , 충남음악창작소2026지원사업총정리새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.chungnam.go.kr/cnportal/media/article/view.do?articleNo=MD0003448087&menuNo=500168",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-40d15f8f",
+      "name": "[공고제2026-109호]2026경북음악창작소 영상 제작지원사업 공고[연장] – 경북음악창작소새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://054soundville.or.kr/2026/09/04/%EA%B3%B5%EA%B3%A0-%EC%A0%9C2026-109%ED%98%B8-2026-%EA%B2%BD%EB%B6%81%EC%9D%8C%EC%95%85%EC%B0%BD%EC%9E%91%EC%86%8C-%EC%98%81%EC%83%81-%EC%A0%9C%EC%9E%91-%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85/",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-8445a65c",
+      "name": "2026제주음악창작소 운영사업「제뮤아카데미 특강 공연 기획의 모든 것!」 참가자 모집공고게....새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://ofjeju.kr/communication/notifications.htm?qType=title&q=%EC%9D%8C%EC%95%85%EC%B0%BD%EC%9E%91&act=view&seq=2073706",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-84f458d6",
+      "name": "2026씬나사운드뮤직페스티벌새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.wevity.com/index_university.php?gbn=viewok&ix=110693",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026. 9. 1.(화) ~ 9. 23.(수)까지",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-d7dc09d5",
+      "name": "[QMF] 쿼터 뮤지션 페스타2026With 먼데이 프로젝트공모전OPEN -음악유통사,Quarter Music 쿼터뮤직새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.quartermusic.co.kr/news-4/%5Bqmf%5D-%EC%BF%BC%ED%84%B0-%EB%AE%A4%EC%A7%80%EC%85%98-%ED%8E%98%EC%8A%A4%ED%83%80-2026-with-%EB%A8%BC%EB%8D%B0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B3%B5%EB%AA%A8%EC%A0%84-open",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026년 08월 07일 ~ 2026년 09월 06일",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-7bc92c0a",
+      "name": "“지금, 당신의 음악을 ON” 뮤즈온 2026 뮤지션을 모집합니다｜MUSE ON 2026새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.youtube.com/watch?v=sRP-q_icQx8",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-952ef428",
+      "name": "2026청도반시밴드페스티벌 참여자 모집새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.wevity.com/?c=find&gbn=viewok&ix=110775",
       "source": "web-search",
       "urgent": false,
       "summary": {
