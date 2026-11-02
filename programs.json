@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26",
+  "updated_at": "2026-11-02",
   "programs": [
     {
       "id": "arko-music-2026",
@@ -4194,6 +4194,156 @@
       "amount": "공고 참조",
       "target": "공고 페이지에서 확인",
       "url": "https://www.wevity.com/?c=find&gbn=viewok&ix=110775",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "kawf-9c88b31f",
+      "name": "「한국예술인복지재단 퇴직연금 사업자 선정」 우선협상대상자 공고",
+      "organization": "한국예술인복지재단",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kawf.kr/notice/sub01.do",
+      "source": "kawf",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-bb82b0a0",
+      "name": "한국콘텐츠진흥원새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.kocca.kr/kocca/main.do",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-d6c58800",
+      "name": "2026부산음악창작소 음반제작ᐧ프로모션지원사업모집공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.musiclabbusan.com/file/download/KONOTICE01037A001",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-34382215",
+      "name": "2026충남음악창작소 배리어프리 기획공연지원사업모집공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.cnmusicfactory.com/boardfiledownload.do?seq=1838434",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-0bbf250d",
+      "name": "2026년 세종음악창작소 버스킹 음향 장비지원사업 공고새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://aisup.co.kr/announcements/152912",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "예술인,관련종사자,기업·단체",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-0ec73eaf",
+      "name": "서울문화재단새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.sfac.or.kr/index.do",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "2026년 8월 31일(월)~2027년 1월 5일(화) 18시까지",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-e2807264",
+      "name": "2026지역뮤지션 지원(2026Come Together Music Fest) 참가 모집 안내새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://jemu.kr/info.htm?act=download&seq=2072346&page=2&no=1",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-725cc85a",
+      "name": "grounz.net›announcement새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://grounz.net/announcement/view/6176",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-900415cf",
+      "name": "2026 전국 심연수 창작음악제 모집, 대상 상금 300만 원새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://mixing.co.kr/42492",
+      "source": "web-search",
+      "urgent": false,
+      "summary": {
+        "조건": "",
+        "내용": ""
+      }
+    },
+    {
+      "id": "web-a5479e5f",
+      "name": "2026.09.30.새 창 열림",
+      "organization": "웹 검색 발견",
+      "deadline": "공고 참조",
+      "amount": "공고 참조",
+      "target": "공고 페이지에서 확인",
+      "url": "https://www.sfac.or.kr/opensquare/notice/notice_list.do?bcIdx=138706",
       "source": "web-search",
       "urgent": false,
       "summary": {
